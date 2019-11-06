@@ -1,2 +1,2 @@
-# Test_repo
-A simple test for learning GitHub
+# Test repo
+A simple test for learning GitHub wevsite and the desktop app.
